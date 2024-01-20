@@ -1,5 +1,5 @@
 # Django_Application
-Projeto usando o framework Django para o desenvolvimento de uma aplicação web para a criação de flashcards para estudo, e analise de acertos e erros. 
+Aplicação desenvolvida em Python e Django, para a criação de um projeto web para estudos com flashcards. 
 
 TECNOLOGIAS UTILIZADAS
 
